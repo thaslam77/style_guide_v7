@@ -1,0 +1,30 @@
+// ======================================
+//  Variables
+// ======================================
+
+// Colors
+$white: #fff;
+
+$color-primary: #58e1c1;
+$color-secondary: #777;
+$color-link: #51ddfc;
+$color-text: #777;
+
+//Buttons Colors
+
+$color-default-btn: #51ddfc;
+$color-error-btn: #e4757a;
+$color-info-btn: #927bc1;
+$color-success-btn: #9ca09d;
+$color-warning-btn: #fd7856;
+
+//Fonts
+$font-stack-primary: 'Lato', sans-serif;
+
+// Breakpoints
+$breakpoints: (
+    'xs': 575px,
+    'sm': 576px,
+    'med': 768px,
+    'lg': 992px,
+);
